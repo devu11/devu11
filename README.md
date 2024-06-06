@@ -5,6 +5,9 @@ Passionate MERN Stack Developer
 
 
 
+![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUDMapFchlXe4yKIpZhXr1nyAeGzQvUsCWVg&s)
+
+
 # 
 
 My passion for web development was sparked at Brototype, where I mastered the MERN stack.
